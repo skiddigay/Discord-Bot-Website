@@ -58,7 +58,7 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com/dsdservice",
+  discordLink: "https://discord.gg/dsdservice",
   youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
 };
 
