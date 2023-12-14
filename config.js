@@ -8,7 +8,7 @@ const config = {
   name: "Spock",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1184549541987491902&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
