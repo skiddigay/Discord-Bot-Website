@@ -91,7 +91,7 @@ const Footer = () => {
                 <div className="md:pl-16 pb-16 grid  gap-6 ">
                   <div className="h-52 text-8xl flex items-center font-black gap-x-10 justify-center flex-col gap-y-2 tracking-wide sm:tracking-widest sm:flex-row">
                     <h2 className="text-4xl">Made with</h2>{" "}
-                    <span className="text-red-500">❤</span>
+                    <span className="text-red-500">duroduro_ix</span>
                   </div>
                 </div>
                 <div className="pb-8 py-4 md:pl-16 border-t flex justify-between">
